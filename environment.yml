@@ -1,0 +1,13 @@
+name: sequences_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - jupyter
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - seaborn

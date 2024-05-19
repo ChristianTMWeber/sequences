@@ -1,0 +1,5 @@
+# ignore compiled python files, they will be automatically re-created
+*.pyc 
+
+#ignore jupyter notebook backups
+.ipynb_checkpoints/*
